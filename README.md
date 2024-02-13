@@ -1,1 +1,1 @@
-# jan24-aks
+# argocd-aks
